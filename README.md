@@ -14,14 +14,15 @@ When working in jupyter lab,
 
 ## Technologies
 
-This application is developed on the **Python** *3.7.11 version*. It incorportates the following required 3 dependancies to run:
+This application is developed on the **Python** *3.7.11 version*. It incorportates the following required 6 dependancies to run:
 
-1. **import pandas as pd**
-2. **import numpy as np**
-3. **import hvplot.pandas**
-4. **import sqlalchemy**
+import pandas as pd
+import hvplot.pandas
+from path import Path
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
 
----
 
 ## Installation Guide
 
@@ -30,11 +31,22 @@ The following installation must be performed before running the program. It incl
 
 **Installations:**
 
+scikit-learn: check to verify installation using `conda list scikit-learn`. Otherwise,
+`install scikit-learn`
 
+hvplot: check to verify installation using `conda list hvplot`. Otherwise,
+`install hvplot`
 
 ## Usage
 
 To run this application, create a clone on the local desktop. Then, initiate your conda environment and 
+open file in Jupyter Lab.
+
+Resources folder contains Crypto Market Data as a CSV file.
+
+
+
+
 
 The images above illustrates the results.
 
@@ -49,3 +61,5 @@ LinkedIn: [Find me on LinkedIn](<https://www.linkedin.com/in/john-a-batarse-760a
 
 
 ## License
+
+Trilogy Education LLC. and UC Berkeley
