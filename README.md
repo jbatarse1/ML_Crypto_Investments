@@ -45,6 +45,13 @@ open file in Jupyter Lab.
 Resources folder contains Crypto Market Data as a CSV file.
 
 
+<img width="740" alt="Crypto Market Data Plot" src="https://user-images.githubusercontent.com/93550651/157989807-7270a485-e52e-45be-a7df-87bac97d0347.png">
+
+
+<img width="1294" alt="Elbow Curves" src="https://user-images.githubusercontent.com/93550651/157989948-658d9e8e-7a92-42e1-be02-89ee51191555.png">
+
+
+<img width="1294" alt="Elbow Curves" src="https://user-images.githubusercontent.com/93550651/157990065-8a6f4724-33e1-4e0a-a6c3-890210d2f16f.png">
 
 
 
