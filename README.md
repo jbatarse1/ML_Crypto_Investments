@@ -1,20 +1,16 @@
 # ML_Crypto_Investments
 
-Python application to analyze cryptocurrency investments via Machine Learning. This program is developed 
-to assemble investment portfolios based on cryptocurrency. Using ML, investigating other factors that might 
-impact the crypto market.
+This Python application is to analyze cryptocurrency investments via Machine Learning (ML). This program runs within Jupyter Lab.
+It performs investment planning analysis and is developed to assemble investment portfolios based on cryptocurrency. Using ML, 
+it enables the investigation of other factors that might impact the crypto market.
 
-This program runs a **Python** application within Jupyter Lab to perform 
-investment planning analysis for the evaluation of a crypto portfolio. 
-
-Line and Bar Plots are created to visualize the information for better understanding and decision making.
-When working in jupyter lab, 
+Line and Scatter Plots are created to visualize the information for better understanding and decision making.
 
 ---
 
 ## Technologies
 
-This application is developed on the **Python** *3.7.11 version*. It incorportates the following required 6 dependancies to run:
+This application incorportates the following required 6 dependancies to run:
 
 import pandas as pd
 import hvplot.pandas
