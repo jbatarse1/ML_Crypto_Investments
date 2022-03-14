@@ -57,7 +57,7 @@ The "Elbow Curve" line plots shows the best values for 'k' and compares between 
 
 
 These Scatter plots give a visual analysis of data point for the Original Data and PCA data. 
-<img width="1294" alt="Elbow Curves" src="https://user-images.githubusercontent.com/93550651/157990065-8a6f4724-33e1-4e0a-a6c3-890210d2f16f.png">
+<img widt<img width="1294" alt="Clusters Plot" src="https://user-images.githubusercontent.com/93550651/158098450-c6a376f2-9833-4944-a9dc-fd4b119b709e.png">
 
 
 ## Contributors
