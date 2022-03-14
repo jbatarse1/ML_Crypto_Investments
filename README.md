@@ -11,6 +11,7 @@ Line and Scatter Plots are created to visualize the information for better under
 
 This application incorportates the following required 6 dependancies to run:
 
+
 *import pandas as pd*
 *import hvplot.pandas*
 *from path import Path*
