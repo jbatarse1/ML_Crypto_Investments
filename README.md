@@ -13,11 +13,17 @@ This application incorportates the following required 6 dependancies to run:
 
 
 *import pandas as pd*
+
 *import hvplot.pandas*
+
 *from path import Path*
+
 *from sklearn.cluster import KMeans*
+
 *from sklearn.decomposition import PCA*
+
 *from sklearn.preprocessing import StandardScaler*
+
 
 
 ## Installation Guide
