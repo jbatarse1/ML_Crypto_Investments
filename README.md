@@ -57,6 +57,7 @@ The "Elbow Curve" line plots shows the best values for 'k' and compares between 
 
 
 These Scatter plots give a visual analysis of data point for the Original Data and PCA data. 
+<img width="1294" alt="CryptoClustersPlots" src="https://user-images.githubusercontent.com/93550651/158098890-350d2b94-e066-40aa-a6a6-a5e9b1d2238c.png">
 
 
 
